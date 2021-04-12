@@ -9,6 +9,11 @@ body {
   font-family: "Noto Sans TC";
 }
 
+/*agrego este color para que los links sean accesibles dentro de aprendemos (a, con, para, usando, si cada día) */
+a {
+  color: #2973B0;
+}
+
 /*  Header  */
 
 .header {
